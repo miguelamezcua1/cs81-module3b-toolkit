@@ -11,3 +11,10 @@ So it works as expected
 Tested with square(5) → Got: 25  
 Tested with square(3) → Got: 9  
 Works correctly
+
+---
+
+### isEven(n)
+Tested with isEven(4) → Got: true  
+Tested with isEven(7) → Got: false  
+It’s working correctly!
