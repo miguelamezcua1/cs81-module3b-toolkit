@@ -21,3 +21,11 @@ This function will check if a number is divisible by 2.
 
 If I call isEven(4), it should return true.  
 If I call isEven(7), it should return false.
+
+---
+
+### isOdd(n)
+This function should check if a number is *not* divisible by 2.
+
+If I call isOdd(3), it should return true.  
+If I call isOdd(8), it should return false.
