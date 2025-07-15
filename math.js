@@ -14,3 +14,13 @@ function square(n) {
 
 // Example test
 console.log(square(5)); // Should print 25
+
+
+// Checks if a number is even
+function isEven(n) {
+  return n % 2 === 0;
+}
+
+// Example test
+console.log(isEven(4)); // Should print true
+console.log(isEven(7)); // Should print false
