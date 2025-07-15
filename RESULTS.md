@@ -25,3 +25,10 @@ It’s working correctly!
 Tested with isOdd(3) → Got: true  
 Tested with isOdd(8) → Got: false  
 The function works as expected!
+
+---
+
+### multiply(a, b)
+Tested with multiply(3, 4) → Got: 12  
+Tested with multiply(7, 0) → Got: 0  
+It works perfectly.
