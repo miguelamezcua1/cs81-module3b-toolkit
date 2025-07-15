@@ -34,3 +34,13 @@ function isOdd(n) {
 // Example test
 console.log(isOdd(3)); // Should print true
 console.log(isOdd(8)); // Should print false
+
+
+// Multiplies two numbers
+function multiply(a, b) {
+  return a * b;
+}
+
+// Example test
+console.log(multiply(3, 4)); // Should print 12
+console.log(multiply(7, 0)); // Should print 0
