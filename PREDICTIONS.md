@@ -29,3 +29,11 @@ This function should check if a number is *not* divisible by 2.
 
 If I call isOdd(3), it should return true.  
 If I call isOdd(8), it should return false.
+
+---
+
+### multiply(a, b)
+This function should take two numbers and return their product.
+
+If I call multiply(3, 4), it should return 12.  
+If I call multiply(7, 0), it should return 0.
