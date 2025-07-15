@@ -18,3 +18,10 @@ Works correctly
 Tested with isEven(4) → Got: true  
 Tested with isEven(7) → Got: false  
 It’s working correctly!
+
+---
+
+### isOdd(n)
+Tested with isOdd(3) → Got: true  
+Tested with isOdd(8) → Got: false  
+The function works as expected!
